@@ -1,4 +1,4 @@
-# IPCC AR6 WGIII
+# IPCC AR6 WGIII Data
 This repository is dedicated to providing access to the publicly available data used in the Working Group III (WGIII) report of the Intergovernmental Panel on Climate Change's Sixth Assessment Report (AR6), 2022.
 
 ## Further Data Availability
